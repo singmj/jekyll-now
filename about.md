@@ -2,14 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+## 联系我们
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+:[新浪微博：qistyle](https://weibo.com/u/1670681212)
